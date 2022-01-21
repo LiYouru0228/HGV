@@ -41,5 +41,5 @@ Then, you can start to train the model and evaluate the performance by run:
 $ python train.py
 ```
 
-## Acknowledgments:
+## Acknowledgments
 Thanks to these open source benchmark projects https://github.com/YerevaNN/mimic3-benchmarks/, https://github.com/choczhang/ConCare and https://github.com/choczhang/GRASP whose code has good reusability and easy to followed and the basic pipeline of this project can quickly complete with their help.
