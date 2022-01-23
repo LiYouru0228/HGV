@@ -24,12 +24,10 @@ After the above commands are done, there will be a directory data/in-hospital-mo
 
 ### Required packages:
 The code has been tested running under Python 3.8.3, and some main following packages installed and their version are:
-```
-PyTorch == 1.0.1
-numpy == 1.18.5
-scipy == 1.5.4
-scikit-learn == 0.19.1
-```
+- PyTorch == 1.0.1
+- numpy == 1.18.5
+- scipy == 1.5.4
+- scikit-learn == 0.19.1
 
 ## Running the code
 Firstly, you can run "load_data.py" to finish the data preprocessing and this command can save the preprocessed data into some pickel files. Therefore, you only need to run it the first time.
