@@ -1,6 +1,5 @@
-# Upload data notes:
-Upload the benchmark task dataset here.
-This floder should include:
+# Upload data guidelines:
+Upload the benchmark task dataset here. This folder should include:
 - demographic/
 - train/
 - tset/
