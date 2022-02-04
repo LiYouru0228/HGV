@@ -6,6 +6,7 @@ This repository is the implementation of the paper entitled as HGV: Hierarchical
 ![](https://github.com/LiYouru0228/HGV/blob/main/framework.jpg?raw=true)
 This is a graphical illustration of hierarchical global views-guided sequential representation learning for risk prediction. 
 
+
 ## Preliminaries
 
 ### How to download the benchmark dataset:
