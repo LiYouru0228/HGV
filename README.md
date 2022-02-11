@@ -10,7 +10,7 @@ This is a graphical illustration of hierarchical global views-guided sequential 
 ## Preliminaries
 
 ### How to download the benchmark dataset:
-Follow the rule of MIMIC-III data administrator we have no right to release the dataset directly, so you need to acquire the data by yourself from https://mimic.physionet.org/ with the guidance at https://mimic.mit.edu/docs/gettingstarted/. 
+Follow the rule of MIMIC-III data administrator, we have no right to release the dataset directly, so you need to acquire the data by yourself from https://mimic.physionet.org/ with the guidance at https://mimic.mit.edu/docs/gettingstarted/. 
 
 ### How to build the benchmark task:
 When you download the CSVs data successfully, you can build the in-hospital mortality benchmark task by derectly runing the following commands given in https://github.com/YerevaNN/mimic3-benchmarks/:
