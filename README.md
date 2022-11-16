@@ -1,7 +1,8 @@
-# HGV: Hierarchical Global View-guided Sequence Representation Learning for Risk Prediction
+# HGV4Risk: Hierarchical Global View-guided Sequence Representation Learning for Risk Prediction
 
 ## Overview
-This repository is the implementation of the paper entitled as HGV: Hierarchical Global Views-guided Sequential Representation Learning for Risk Prediction.
+This repository is the implementation of HGV ([arXiv](https://arxiv.org/abs/2211.07956))
+> Youru Li, Zhenfeng Zhu, Xiaobo Guo, Shaoshuai Li, Yuchen Yang, Yao Zhao: HGV4Risk: Hierarchical Global Views-guided Sequential Representation Learning for Risk Prediction, arXiv: 2211.07956, 2022.
 
 ![](https://github.com/LiYouru0228/HGV/blob/main/HGV.jpg?raw=true)
 This is a graphical illustration of hierarchical global views-guided sequential representation learning for risk prediction. 
