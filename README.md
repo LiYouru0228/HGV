@@ -40,8 +40,8 @@ $ python load_data.py
 Then, you can start to train the model and evaluate the performance by run:
 ```
 $ python train.py
-
 ```
+
 ## Citation 
 If you want to use our codes in your research, please cite:
 ```
