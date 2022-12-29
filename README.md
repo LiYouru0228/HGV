@@ -2,7 +2,7 @@
 
 ## Overview
 This repository is the implementation of HGV ([arXiv](https://arxiv.org/abs/2211.07956))
-> Youru Li, Zhenfeng Zhu, Xiaobo Guo, Shaoshuai Li, Yuchen Yang, Yao Zhao: HGV4Risk: Hierarchical Global Views-guided Sequential Representation Learning for Risk Prediction, arXiv preprint arXiv:2211.07956, 2022.
+> Youru Li, Zhenfeng Zhu, Xiaobo Guo, Shaoshuai Li, Yuchen Yang, Yao Zhao: HGV4Risk: Hierarchical Global Views-guided Sequence Representation Learning for Risk Prediction, arXiv preprint arXiv:2211.07956, 2022.
 
 ![](https://github.com/LiYouru0228/HGV/blob/main/HGV4Risk.png?raw=true)
 This is a graphical illustration of hierarchical global views-guided sequential representation learning for risk prediction. 
@@ -69,4 +69,3 @@ If you want to use our codes in your research, please cite:
 
 ## Acknowledgments
 Thanks to these open source benchmark projects https://github.com/YerevaNN/mimic3-benchmarks/, https://github.com/choczhang/ConCare and https://github.com/choczhang/GRASP whose code has good reusability and easy to followed and the basic pipeline of this project can quickly complete with their help.
-
