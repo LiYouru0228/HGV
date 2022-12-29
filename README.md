@@ -40,6 +40,31 @@ $ python load_data.py
 Then, you can start to train the model and evaluate the performance by run:
 ```
 $ python train.py
+
+```
+## Citation 
+If you want to use our codes in your research, please cite:
+```
+@article{DBLP:journals/corr/abs-2211-07956,
+  author    = {Youru Li and
+               Zhenfeng Zhu and
+               Xiaobo Guo and
+               Shaoshuai Li and
+               Yuchen Yang and
+               Yao Zhao},
+  title     = {HGV4Risk: Hierarchical Global View-guided Sequence Representation
+               Learning for Risk Prediction},
+  journal   = {CoRR},
+  volume    = {abs/2211.07956},
+  year      = {2022},
+  url       = {https://doi.org/10.48550/arXiv.2211.07956},
+  doi       = {10.48550/arXiv.2211.07956},
+  eprinttype = {arXiv},
+  eprint    = {2211.07956},
+  timestamp = {Wed, 23 Nov 2022 18:03:56 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2211-07956.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
 ```
 
 ## Acknowledgments
