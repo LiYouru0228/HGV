@@ -9,7 +9,6 @@ import random
 import math
 import copy
 
-
 import torch
 from torch import nn
 import torch.nn.utils.rnn as rnn_utils
@@ -22,7 +21,6 @@ import torch.nn.utils.rnn as rnn_utils
 from torch.utils import data
 from torch.autograd import Variable
 import torch.nn.functional as F
-
 
 device = torch.device("cuda:0" if torch.cuda.is_available() == True else 'cpu')
 print("available device: {}".format(device))
@@ -238,7 +236,6 @@ class MultiHeadedAttention(nn.Module):
         for i in range(feature_dim -1 + 1):
             Covs = cov(DeCov_contexts[i+1,:,:])
             DeCov_loss += 0.5 * (torch.norm(Covs, p = 'fro')**2 - torch.norm(torch.diag(Covs))**2 ) 
-
 
         return self.final_linear(x), DeCov_loss
 
