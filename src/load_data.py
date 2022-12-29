@@ -131,7 +131,6 @@ def load_demo():
 
     return [demographic_data,idx_list]
 
-
 def build_graph(train_raw, val_raw, test_raw):
     file_vec,file2sim = {},{}
     file_names = train_raw['names'] + val_raw['names'] + test_raw['names']
