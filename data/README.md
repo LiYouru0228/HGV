@@ -7,4 +7,3 @@ Upload the benchmark task dataset here. This folder should include:
 - test_listfile.csv
 - train_listfile.csv
 - val_listfile.csv
-
