@@ -5,7 +5,6 @@ from . import common_utils
 import numpy as np
 import os
 
-
 def load_data(reader, discretizer, normalizer, small_part=False, return_names=False):
     N = reader.get_number_of_examples()
     if small_part:
