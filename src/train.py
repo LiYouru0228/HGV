@@ -110,7 +110,7 @@ def train(args):
 
 
             model_loss = get_loss(output, batch_y.unsqueeze(-1))
-            loss = model_loss + 800* decov_loss
+            loss = model_loss + 1000* decov_loss
 
             batch_loss.append(loss.cpu().detach().numpy())
             model_batch_loss.append(model_loss.cpu().detach().numpy())
