@@ -1,7 +1,7 @@
 # HGV4Risk: Hierarchical Global View-guided Sequence Representation Learning for Risk Prediction
 
 ## Overview
-This repository is the implementation of HGV4Risk ([TKDD](https://dl.acm.org/doi/full/10.1145/3605895)[arXiv](https://arxiv.org/abs/2211.07956))
+This repository is the implementation of HGV4Risk ([TKDD](https://dl.acm.org/doi/full/10.1145/3605895)|[arXiv](https://arxiv.org/abs/2211.07956))
 > Youru Li, Zhenfeng Zhu, Xiaobo Guo, Shaoshuai Li, Yuchen Yang, Yao Zhao: HGV4Risk: Hierarchical Global Views-guided Sequence Representation Learning for Risk Prediction. ACM Transactions on Knowledge Discovery from Data, 18(1), 1-21.
 
 
