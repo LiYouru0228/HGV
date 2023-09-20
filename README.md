@@ -1,8 +1,9 @@
 # HGV4Risk: Hierarchical Global View-guided Sequence Representation Learning for Risk Prediction
 
 ## Overview
-This repository is the implementation of HGV ([arXiv](https://arxiv.org/abs/2211.07956))
-> Youru Li, Zhenfeng Zhu, Xiaobo Guo, Shaoshuai Li, Yuchen Yang, Yao Zhao: HGV4Risk: Hierarchical Global Views-guided Sequence Representation Learning for Risk Prediction, arXiv preprint arXiv:2211.07956, 2022.
+This repository is the implementation of HGV4Risk ([TKDD](https://dl.acm.org/doi/full/10.1145/3605895)[arXiv](https://arxiv.org/abs/2211.07956))
+> Youru Li, Zhenfeng Zhu, Xiaobo Guo, Shaoshuai Li, Yuchen Yang, Yao Zhao: HGV4Risk: Hierarchical Global Views-guided Sequence Representation Learning for Risk Prediction. ACM Transactions on Knowledge Discovery from Data, 18(1), 1-21.
+
 
 ![](https://github.com/LiYouru0228/HGV/blob/main/HGV4Risk.png?raw=true)
 This is a graphical illustration of hierarchical global views-guided sequential representation learning for risk prediction. 
@@ -45,25 +46,15 @@ $ python train.py
 ## Citation 
 If you want to use our codes in your research, please cite:
 ```
-@article{DBLP:journals/corr/abs-2211-07956,
-  author    = {Youru Li and
-               Zhenfeng Zhu and
-               Xiaobo Guo and
-               Shaoshuai Li and
-               Yuchen Yang and
-               Yao Zhao},
-  title     = {HGV4Risk: Hierarchical Global View-guided Sequence Representation
-               Learning for Risk Prediction},
-  journal   = {CoRR},
-  volume    = {abs/2211.07956},
-  year      = {2022},
-  url       = {https://doi.org/10.48550/arXiv.2211.07956},
-  doi       = {10.48550/arXiv.2211.07956},
-  eprinttype = {arXiv},
-  eprint    = {2211.07956},
-  timestamp = {Wed, 23 Nov 2022 18:03:56 +0100},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-2211-07956.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
+@article{li2023hgv4risk,
+  title={HGV4Risk: Hierarchical Global View-guided Sequence Representation Learning for Risk Prediction},
+  author={Li, Youru and Zhu, Zhenfeng and Guo, Xiaobo and Li, Shaoshuai and Yang, Yuchen and Zhao, Yao},
+  journal={ACM Transactions on Knowledge Discovery from Data},
+  volume={18},
+  number={1},
+  pages={1--21},
+  year={2023},
+  publisher={ACM New York, NY}
 }
 ```
 
